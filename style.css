@@ -1,10 +1,55 @@
 .cabecalho{
-    width: 412px;
-    height: 200px;
+    width: 415px;
+    height: 40px;
     background: rgb(0, 0, 0);
 }
 .primeira_secao{
-    width: 412px;
-    height: 200px;
+    width: 411px;
+    height: 40px;
     background: rgb(255, 254, 254);
+}
+.retangulo_preto{
+    width: 411px;
+    height: 40px;
+    background: rgb(0, 0, 0);
+}
+.retangulo_branco{
+    width: 411px;
+    height: 40px;
+    background: rgb(255, 254, 254);
+}
+.retangulo_preto{
+    width: 411px;
+    height: 40px;
+    background: rgb(0, 0, 0);
+}
+.retangulo_branco{
+    width: 428px;
+    height: 40px;
+    background: rgb(255, 254, 254);
+}
+retangulo_preto{
+    width: 411px;
+    height: 40px;
+    background: rgb(0, 0, 0);
+}
+.retangulo_branco{
+    width: 428px;
+    height: 40px;
+    background: rgb(255, 254, 254);
+}
+retangulo_preto{
+    width: 411px;
+    height: 40px;
+    background: rgb(0, 0, 0);
+}
+.retangulo_branco{
+    width: 428px;
+    height: 40px;
+    background: rgb(255, 254, 254);
+}
+retangulo_preto{
+    width: 415px;
+    height: 40px;
+    background: rgb(0, 0, 0);
 }
