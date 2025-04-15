@@ -8,26 +8,30 @@
     height: 44px;
     background: rgb(255, 254, 254);
 }
-.retangulo_preto{
+.retangulo_branco{
     width: 411px;
     height: 44px;
     background: rgb(255, 254, 254);
 }
-.retangulo_branco{
+.retangulo_preto{
     width: 411px;
     height: 44px;
     background: rgb(0, 0, 0);
 }
-.retangulo_preto{
+.retangulo_branco{
     width: 411px;
     height: 44px;
     background: rgb(255, 255, 255);
 }
-
-.retangulo_branco{
+.retangulo_preto{
+    width: 411px;
+    height: 44px;
+    background: rgb(0, 0, 0);
+}
+.segunda_secao{
     width: 411px;
     height: 366px;
-    background: rgb(255, 254, 254);
+    background-color: rgb(255, 255, 255);
 }
 retangulo_preto{
     width: 411px;
