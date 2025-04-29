@@ -57,6 +57,10 @@ retangulo_preto{
     height: 44px;
     background: rgb(255, 254, 254);
 }
+.seta {
+    width: 219px;
+    height: 219px;
+}
 .retangulo_preto{
     width: 411px;
     height: 80px;
