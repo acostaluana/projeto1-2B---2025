@@ -28,7 +28,11 @@
     height: 44px;
     background: rgb(0, 0, 0);
 }
-
+.retangulo_preto{
+    width: 411px;
+    height: 44px;
+    background: rgb(0, 0, 0);
+}
 .retangulo_preto{
     width: 411px;
     height: 500px;
